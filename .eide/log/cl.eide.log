@@ -1,0 +1,150 @@
+
+
+
+[2021/1/11 16:41:51 GMT+0800] : launched
+[Hidden] : Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+Error: Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+	at checkExecSyncError (child_process.js:630:11)
+	at Object.execSync (child_process.js:666:15)
+	at Object.execSync (electron/js2c/asar.js:727:23)
+	at C.getMacroList (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66600)
+	at new C (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66443)
+	at new f (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59397)
+	at Function.getInstance (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59546)
+	at P.loadToolchain (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:93890)
+	at P.Load (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:89433)
+	at S._OpenProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:339386)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331772)
+	at Object.onceWrapper (events.js:313:26)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:164209)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at S.LoadWorkspaceProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331821)
+	at new S (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:330308)
+	at new t.ProjectExplorer (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:344009)
+	at t.activate (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:167749)
+	at Function._callActivateOptional (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:773)
+	at Function._callActivate (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:424)
+	at d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:958:841
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Promise.all (index 5)
+	at async Promise.all (index 0)
+
+
+
+[2021/1/11 17:8:44 GMT+0800] : launched
+[Hidden] : Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+Error: Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+	at checkExecSyncError (child_process.js:630:11)
+	at Object.execSync (child_process.js:666:15)
+	at Object.execSync (electron/js2c/asar.js:727:23)
+	at C.getMacroList (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66600)
+	at new C (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66443)
+	at new f (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59397)
+	at Function.getInstance (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59546)
+	at P.loadToolchain (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:93890)
+	at P.Load (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:89433)
+	at S._OpenProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:339386)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331772)
+	at Object.onceWrapper (events.js:313:26)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:164209)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at S.LoadWorkspaceProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331821)
+	at new S (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:330308)
+	at new t.ProjectExplorer (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:344009)
+	at t.activate (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:167749)
+	at Function._callActivateOptional (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:773)
+	at Function._callActivate (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:424)
+	at d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:958:841
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Promise.all (index 5)
+	at async Promise.all (index 0)
+
+
+
+[2021/1/11 17:13:48 GMT+0800] : launched
+[Hidden] : Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+Error: Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+	at checkExecSyncError (child_process.js:630:11)
+	at Object.execSync (child_process.js:666:15)
+	at Object.execSync (electron/js2c/asar.js:727:23)
+	at C.getMacroList (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66600)
+	at new C (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66443)
+	at new f (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59397)
+	at Function.getInstance (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59546)
+	at P.loadToolchain (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:93890)
+	at P.Load (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:89433)
+	at S._OpenProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:339386)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331772)
+	at Object.onceWrapper (events.js:313:26)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:164209)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at S.LoadWorkspaceProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331821)
+	at new S (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:330308)
+	at new t.ProjectExplorer (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:344009)
+	at t.activate (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:167749)
+	at Function._callActivateOptional (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:773)
+	at Function._callActivate (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:424)
+	at d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:958:841
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Promise.all (index 5)
+	at async Promise.all (index 0)
+
+
+
+[2021/1/11 19:11:14 GMT+0800] : launched
+[Hidden] : Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+Error: Command failed: null\ARMCLANG\bin\armclang.exe --target=arm-arm-none-eabi -E -dM - <nul
+ϵͳ�Ҳ���ָ����·����
+
+	at checkExecSyncError (child_process.js:630:11)
+	at Object.execSync (child_process.js:666:15)
+	at Object.execSync (electron/js2c/asar.js:727:23)
+	at C.getMacroList (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66600)
+	at new C (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:66443)
+	at new f (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59397)
+	at Function.getInstance (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:59546)
+	at P.loadToolchain (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:93890)
+	at P.Load (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:89433)
+	at S._OpenProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:339386)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331772)
+	at Object.onceWrapper (events.js:313:26)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at EventEmitter.<anonymous> (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:164209)
+	at EventEmitter.emit (events.js:223:5)
+	at Function.emit (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:4451)
+	at S.LoadWorkspaceProject (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:331821)
+	at new S (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:330308)
+	at new t.ProjectExplorer (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:344009)
+	at t.activate (c:\Users\user\.vscode\extensions\cl.eide-1.21.4\dist\extension.js:1:167749)
+	at Function._callActivateOptional (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:773)
+	at Function._callActivate (d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:960:424)
+	at d:\Program Files\VSCode1.52.1\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:958:841
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Promise.all (index 5)
+	at async Promise.all (index 0)
+
+

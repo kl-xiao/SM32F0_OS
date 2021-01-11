@@ -1,0 +1,114 @@
+{
+    "name": "SM32F0_OS",
+    "type": "ARM",
+    "mode": "Debug",
+    "toolchain": "GCC",
+    "dependenceList": [
+        {
+            "groupName": "custom",
+            "depList": [
+                {
+                    "name": "default",
+                    "incList": [
+                        ".\\.eide\\deps",
+                        ".\\User\\inc"
+                    ],
+                    "libList": [],
+                    "sourceDirList": [],
+                    "defineList": [
+                        "USE_STDPERIPH_DRIVER",
+                        "SM32F030x8"
+                    ]
+                }
+            ]
+        },
+        {
+            "groupName": "build-in",
+            "depList": [
+                {
+                    "name": "default",
+                    "incList": [],
+                    "libList": [],
+                    "sourceDirList": [],
+                    "defineList": [
+                        "DEBUG"
+                    ]
+                },
+                {
+                    "name": "toolchain",
+                    "incList": [
+                        ".\\..\\..\\..\\program files\\gcc-arm-none-eabi-10-2020\\arm-none-eabi\\include\\c++\\10.2.1",
+                        ".\\..\\..\\..\\program files\\gcc-arm-none-eabi-10-2020\\arm-none-eabi\\include\\c++\\10.2.1\\arm-none-eabi",
+                        ".\\..\\..\\..\\program files\\gcc-arm-none-eabi-10-2020\\arm-none-eabi\\include\\c++\\10.2.1\\backward",
+                        ".\\..\\..\\..\\program files\\gcc-arm-none-eabi-10-2020\\lib\\gcc\\arm-none-eabi\\10.2.1\\include",
+                        ".\\..\\..\\..\\program files\\gcc-arm-none-eabi-10-2020\\lib\\gcc\\arm-none-eabi\\10.2.1\\include-fixed",
+                        ".\\..\\..\\..\\program files\\gcc-arm-none-eabi-10-2020\\arm-none-eabi\\include"
+                    ],
+                    "sourceDirList": [],
+                    "libList": [],
+                    "defineList": []
+                }
+            ]
+        }
+    ],
+    "compileConfig": {
+        "cpuType": "Cortex-M0",
+        "floatingPointHardware": "default",
+        "useCustomScatterFile": true,
+        "scatterFilePath": ".\\SM32F030C8Tx_FLASH.ld",
+        "storageLayout": {
+            "RAM": [
+                {
+                    "tag": "IRAM",
+                    "id": 1,
+                    "mem": {
+                        "startAddr": "0x20000000",
+                        "size": "0x5000"
+                    },
+                    "isChecked": true,
+                    "noInit": false
+                }
+            ],
+            "ROM": [
+                {
+                    "tag": "IROM",
+                    "id": 1,
+                    "mem": {
+                        "startAddr": "0x08000000",
+                        "size": "0x10000"
+                    },
+                    "isChecked": true,
+                    "isStartup": true
+                }
+            ]
+        },
+        "options": "null"
+    },
+    "uploader": "JLink",
+    "srcDirs": [
+        ".\\.eide\\deps",
+        ".\\FreeRTOS",
+        ".\\Libraries",
+        ".\\User\\src"
+    ],
+    "excludeList": [],
+    "outDir": ".\\build",
+    "deviceName": null,
+    "packDir": null,
+    "uploadConfig": {
+        "bin": ".\\build\\Debug\\SM32F0_OS.hex",
+        "baseAddr": "0x08000000",
+        "cpuInfo": {
+            "vendor": "ST",
+            "cpuName": "STM32F030C8"
+        },
+        "proType": 1,
+        "speed": 8000
+    },
+    "miscInfo": {
+        "lastBuildTime": 1610363484889,
+        "uid": "813c5a2ed93308416ac22fcc94d27963",
+        "lastTelTime": 1610352021362
+    },
+    "version": "1.0"
+}

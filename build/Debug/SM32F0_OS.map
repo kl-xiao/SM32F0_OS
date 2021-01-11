@@ -1,0 +1,1998 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              ./build/Debug/cmsis_os.o (__aeabi_uidiv)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                              ./build/Debug/queue.o (memcpy)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+                              ./build/Debug/main.o (printf)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o) (__sinit)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o) (_fwalk)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o) (__sread)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o) (_write_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o) (_close_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o) (_fflush_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o) (memmove)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o) (_free_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o) (_read_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o) (errno)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o) (__gnu_thumb1_case_shi)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o) (__aeabi_idiv)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o) (_close)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o) (_fstat)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o) (_isatty)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o) (_lseek)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o) (_read)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                              e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 ./build/Debug/cmsis_os.o
+ .data          0x00000000        0x0 ./build/Debug/cmsis_os.o
+ .bss           0x00000000        0x0 ./build/Debug/cmsis_os.o
+ .text.makeCmsisPriority
+                0x00000000        0xe ./build/Debug/cmsis_os.o
+ .text.inHandlerMode
+                0x00000000        0xa ./build/Debug/cmsis_os.o
+ .text.osKernelRunning
+                0x00000000       0x12 ./build/Debug/cmsis_os.o
+ .text.osKernelSysTick
+                0x00000000       0x16 ./build/Debug/cmsis_os.o
+ .text.osThreadGetId
+                0x00000000        0x8 ./build/Debug/cmsis_os.o
+ .text.osThreadTerminate
+                0x00000000        0xa ./build/Debug/cmsis_os.o
+ .text.osThreadYield
+                0x00000000        0xa ./build/Debug/cmsis_os.o
+ .text.osThreadSetPriority
+                0x00000000       0x16 ./build/Debug/cmsis_os.o
+ .text.osThreadGetPriority
+                0x00000000       0x24 ./build/Debug/cmsis_os.o
+ .text.osTimerCreate
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osTimerStart
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osTimerStop
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osTimerDelete
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osSignalSet
+                0x00000000       0x60 ./build/Debug/cmsis_os.o
+ .text.osSignalWait
+                0x00000000       0x5a ./build/Debug/cmsis_os.o
+ .text.osMutexCreate
+                0x00000000        0xa ./build/Debug/cmsis_os.o
+ .text.osMutexWait
+                0x00000000       0x64 ./build/Debug/cmsis_os.o
+ .text.osMutexRelease
+                0x00000000       0x58 ./build/Debug/cmsis_os.o
+ .text.osMutexDelete
+                0x00000000       0x1a ./build/Debug/cmsis_os.o
+ .text.osSemaphoreCreate
+                0x00000000       0x26 ./build/Debug/cmsis_os.o
+ .text.osSemaphoreWait
+                0x00000000       0x60 ./build/Debug/cmsis_os.o
+ .text.osSemaphoreRelease
+                0x00000000       0x58 ./build/Debug/cmsis_os.o
+ .text.osSemaphoreDelete
+                0x00000000       0x1a ./build/Debug/cmsis_os.o
+ .text.osPoolCreate
+                0x00000000       0x6c ./build/Debug/cmsis_os.o
+ .text.osPoolAlloc
+                0x00000000       0x66 ./build/Debug/cmsis_os.o
+ .text.osPoolCAlloc
+                0x00000000       0x16 ./build/Debug/cmsis_os.o
+ .text.osPoolFree
+                0x00000000       0x4e ./build/Debug/cmsis_os.o
+ .text.osMessageCreate
+                0x00000000        0xe ./build/Debug/cmsis_os.o
+ .text.osMessagePut
+                0x00000000       0x64 ./build/Debug/cmsis_os.o
+ .text.osMessageGet
+                0x00000000       0x88 ./build/Debug/cmsis_os.o
+ .text.osMailCreate
+                0x00000000       0x6a ./build/Debug/cmsis_os.o
+ .text.osMailAlloc
+                0x00000000        0xe ./build/Debug/cmsis_os.o
+ .text.osMailCAlloc
+                0x00000000       0x22 ./build/Debug/cmsis_os.o
+ .text.osMailPut
+                0x00000000       0x64 ./build/Debug/cmsis_os.o
+ .text.osMailGet
+                0x00000000       0x84 ./build/Debug/cmsis_os.o
+ .text.osMailFree
+                0x00000000       0x12 ./build/Debug/cmsis_os.o
+ .text.osSystickHandler
+                0x00000000       0x12 ./build/Debug/cmsis_os.o
+ .text.osThreadSuspend
+                0x00000000        0xa ./build/Debug/cmsis_os.o
+ .text.osThreadResume
+                0x00000000       0x30 ./build/Debug/cmsis_os.o
+ .text.osThreadSuspendAll
+                0x00000000        0xa ./build/Debug/cmsis_os.o
+ .text.osThreadResumeAll
+                0x00000000       0x12 ./build/Debug/cmsis_os.o
+ .text.osDelayUntil
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osAbortDelay
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osThreadList
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osMessagePeek
+                0x00000000       0x46 ./build/Debug/cmsis_os.o
+ .text.osMessageWaiting
+                0x00000000       0x1c ./build/Debug/cmsis_os.o
+ .text.osMessageAvailableSpace
+                0x00000000        0x8 ./build/Debug/cmsis_os.o
+ .text.osMessageDelete
+                0x00000000       0x1a ./build/Debug/cmsis_os.o
+ .text.osRecursiveMutexCreate
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osRecursiveMutexRelease
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osRecursiveMutexWait
+                0x00000000        0x4 ./build/Debug/cmsis_os.o
+ .text.osSemaphoreGetCount
+                0x00000000        0x8 ./build/Debug/cmsis_os.o
+ .text          0x00000000        0x0 ./build/Debug/croutine.o
+ .data          0x00000000        0x0 ./build/Debug/croutine.o
+ .bss           0x00000000        0x0 ./build/Debug/croutine.o
+ .debug_info    0x00000000       0x6b ./build/Debug/croutine.o
+ .debug_abbrev  0x00000000       0x26 ./build/Debug/croutine.o
+ .debug_aranges
+                0x00000000       0x18 ./build/Debug/croutine.o
+ .debug_line    0x00000000       0x1d ./build/Debug/croutine.o
+ .debug_str     0x00000000      0x168 ./build/Debug/croutine.o
+ .comment       0x00000000       0x4e ./build/Debug/croutine.o
+ .ARM.attributes
+                0x00000000       0x31 ./build/Debug/croutine.o
+ .text          0x00000000        0x0 ./build/Debug/event_groups.o
+ .data          0x00000000        0x0 ./build/Debug/event_groups.o
+ .bss           0x00000000        0x0 ./build/Debug/event_groups.o
+ .text.prvTestWaitCondition
+                0x00000000       0x1e ./build/Debug/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x18 ./build/Debug/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000       0xee ./build/Debug/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x2a ./build/Debug/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x12 ./build/Debug/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000       0x70 ./build/Debug/event_groups.o
+ .text.xEventGroupSync
+                0x00000000       0xbe ./build/Debug/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x32 ./build/Debug/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000        0x8 ./build/Debug/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000        0x8 ./build/Debug/event_groups.o
+ .debug_info    0x00000000      0x9e2 ./build/Debug/event_groups.o
+ .debug_abbrev  0x00000000      0x1b6 ./build/Debug/event_groups.o
+ .debug_loc     0x00000000      0xaaf ./build/Debug/event_groups.o
+ .debug_aranges
+                0x00000000       0x68 ./build/Debug/event_groups.o
+ .debug_ranges  0x00000000       0x78 ./build/Debug/event_groups.o
+ .debug_line    0x00000000      0x7b4 ./build/Debug/event_groups.o
+ .debug_str     0x00000000      0x5f5 ./build/Debug/event_groups.o
+ .comment       0x00000000       0x4e ./build/Debug/event_groups.o
+ .debug_frame   0x00000000      0x124 ./build/Debug/event_groups.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/event_groups.o
+ .text          0x00000000        0x0 ./build/Debug/list.o
+ .data          0x00000000        0x0 ./build/Debug/list.o
+ .bss           0x00000000        0x0 ./build/Debug/list.o
+ .text          0x00000000        0x0 ./build/Debug/port.o
+ .data          0x00000000        0x0 ./build/Debug/port.o
+ .bss           0x00000000        0x0 ./build/Debug/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x18 ./build/Debug/port.o
+ .text          0x00000000        0x0 ./build/Debug/heap_4.o
+ .data          0x00000000        0x0 ./build/Debug/heap_4.o
+ .bss           0x00000000        0x0 ./build/Debug/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0xc ./build/Debug/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000        0xc ./build/Debug/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x2 ./build/Debug/heap_4.o
+ .text          0x00000000        0x0 ./build/Debug/queue.o
+ .data          0x00000000        0x0 ./build/Debug/queue.o
+ .bss           0x00000000        0x0 ./build/Debug/queue.o
+ .text.prvIsQueueFull
+                0x00000000       0x1e ./build/Debug/queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x1c ./build/Debug/queue.o
+ .text.prvCopyDataToQueue
+                0x00000000       0x82 ./build/Debug/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0x24 ./build/Debug/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0x72 ./build/Debug/queue.o
+ .text.xQueueGenericReset
+                0x00000000       0x6e ./build/Debug/queue.o
+ .text.prvInitialiseNewQueue
+                0x00000000       0x1c ./build/Debug/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0x3e ./build/Debug/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x128 ./build/Debug/queue.o
+ .text.prvInitialiseMutex
+                0x00000000       0x18 ./build/Debug/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x16 ./build/Debug/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0xaa ./build/Debug/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0x86 ./build/Debug/queue.o
+ .text.xQueueGenericReceive
+                0x00000000      0x15e ./build/Debug/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0x96 ./build/Debug/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x4e ./build/Debug/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x18 ./build/Debug/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x1c ./build/Debug/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000        0xc ./build/Debug/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x16 ./build/Debug/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x18 ./build/Debug/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0x24 ./build/Debug/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x24 ./build/Debug/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x28 ./build/Debug/queue.o
+ .text.vQueueDelete
+                0x00000000       0x16 ./build/Debug/queue.o
+ .bss.xQueueRegistry
+                0x00000000       0x40 ./build/Debug/queue.o
+ .debug_info    0x00000000     0x1525 ./build/Debug/queue.o
+ .debug_abbrev  0x00000000      0x23b ./build/Debug/queue.o
+ .debug_loc     0x00000000     0x17c1 ./build/Debug/queue.o
+ .debug_aranges
+                0x00000000       0xe0 ./build/Debug/queue.o
+ .debug_ranges  0x00000000      0x148 ./build/Debug/queue.o
+ .debug_line    0x00000000     0x1270 ./build/Debug/queue.o
+ .debug_str     0x00000000      0x87f ./build/Debug/queue.o
+ .comment       0x00000000       0x4e ./build/Debug/queue.o
+ .debug_frame   0x00000000      0x290 ./build/Debug/queue.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/queue.o
+ .text          0x00000000        0x0 ./build/Debug/tasks.o
+ .data          0x00000000        0x0 ./build/Debug/tasks.o
+ .bss           0x00000000        0x0 ./build/Debug/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x34 ./build/Debug/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xa0 ./build/Debug/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x20 ./build/Debug/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x20 ./build/Debug/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000       0xbc ./build/Debug/tasks.o
+ .text.vTaskResume
+                0x00000000       0x6c ./build/Debug/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0x88 ./build/Debug/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x14 ./build/Debug/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000        0xc ./build/Debug/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000        0xc ./build/Debug/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0xc ./build/Debug/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x1c ./build/Debug/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0x9c ./build/Debug/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x24 ./build/Debug/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x40 ./build/Debug/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0x84 ./build/Debug/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x78 ./build/Debug/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x20 ./build/Debug/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0x68 ./build/Debug/tasks.o
+ .text.vTaskMissedYield
+                0x00000000        0xc ./build/Debug/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc ./build/Debug/tasks.o
+ .text.vTaskPriorityInherit
+                0x00000000       0x7c ./build/Debug/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x00000000       0x78 ./build/Debug/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 ./build/Debug/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x1c ./build/Debug/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0x6c ./build/Debug/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0x84 ./build/Debug/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000       0xc4 ./build/Debug/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000       0xf8 ./build/Debug/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xa8 ./build/Debug/tasks.o
+ .text.xTaskNotifyStateClear
+                0x00000000       0x30 ./build/Debug/tasks.o
+ .text          0x00000000        0x0 ./build/Debug/timers.o
+ .data          0x00000000        0x0 ./build/Debug/timers.o
+ .bss           0x00000000        0x0 ./build/Debug/timers.o
+ .debug_info    0x00000000       0x6b ./build/Debug/timers.o
+ .debug_abbrev  0x00000000       0x26 ./build/Debug/timers.o
+ .debug_aranges
+                0x00000000       0x18 ./build/Debug/timers.o
+ .debug_line    0x00000000       0x1d ./build/Debug/timers.o
+ .debug_str     0x00000000      0x166 ./build/Debug/timers.o
+ .comment       0x00000000       0x4e ./build/Debug/timers.o
+ .ARM.attributes
+                0x00000000       0x31 ./build/Debug/timers.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_adc.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_adc.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x3c ./build/Debug/sm32f030_adc.o
+ .text.ADC_Init
+                0x00000000       0x9c ./build/Debug/sm32f030_adc.o
+ .text.ADC_ChannelCmd
+                0x00000000       0x38 ./build/Debug/sm32f030_adc.o
+ .text.ADC_ITCmd
+                0x00000000       0x1c ./build/Debug/sm32f030_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000       0x14 ./build/Debug/sm32f030_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0xc ./build/Debug/sm32f030_adc.o
+ .text.ADC_GetDataRegister
+                0x00000000       0x14 ./build/Debug/sm32f030_adc.o
+ .text.ADC_HiLimit0Config
+                0x00000000       0x24 ./build/Debug/sm32f030_adc.o
+ .text.ADC_HiLimit1Config
+                0x00000000       0x28 ./build/Debug/sm32f030_adc.o
+ .text.ADC_LoLimit0Config
+                0x00000000       0x24 ./build/Debug/sm32f030_adc.o
+ .text.ADC_LoLimit1Config
+                0x00000000       0x28 ./build/Debug/sm32f030_adc.o
+ .debug_info    0x00000000      0x7bc ./build/Debug/sm32f030_adc.o
+ .debug_abbrev  0x00000000      0x1f0 ./build/Debug/sm32f030_adc.o
+ .debug_loc     0x00000000      0x2df ./build/Debug/sm32f030_adc.o
+ .debug_aranges
+                0x00000000       0x70 ./build/Debug/sm32f030_adc.o
+ .debug_ranges  0x00000000       0x60 ./build/Debug/sm32f030_adc.o
+ .debug_line    0x00000000      0x46a ./build/Debug/sm32f030_adc.o
+ .debug_str     0x00000000      0x676 ./build/Debug/sm32f030_adc.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_adc.o
+ .debug_frame   0x00000000       0xd4 ./build/Debug/sm32f030_adc.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_adc.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_crc.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_crc.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_crc.o
+ .text.CRC16_CCITT_ComputeBytes
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .text.CRC16_CCITT_ComputeBytes_Update
+                0x00000000       0x30 ./build/Debug/sm32f030_crc.o
+ .text.CRC16_Modbus_ComputeBytes
+                0x00000000       0x34 ./build/Debug/sm32f030_crc.o
+ .text.CRC16_Modbus_ComputeBytes_Update
+                0x00000000       0x4c ./build/Debug/sm32f030_crc.o
+ .text.CRC16_IBM_ComputeBytes
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .text.CRC32_ComputeBytes
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .text.CRC32_ComputeBytes_Update
+                0x00000000       0x48 ./build/Debug/sm32f030_crc.o
+ .text.CRC32_MPEG2_ComputeBytes
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .text.CRC32_MPEG2_ComputeBytes_Update
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .text.CRC32_ComputeWords
+                0x00000000       0x28 ./build/Debug/sm32f030_crc.o
+ .text.CRC32_ComputeWords_Update
+                0x00000000       0x48 ./build/Debug/sm32f030_crc.o
+ .text.CRC32_MPEG2_ComputeWords
+                0x00000000       0x28 ./build/Debug/sm32f030_crc.o
+ .text.CRC32_MPEG2_ComputeWords_Update
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .debug_info    0x00000000      0x640 ./build/Debug/sm32f030_crc.o
+ .debug_abbrev  0x00000000      0x187 ./build/Debug/sm32f030_crc.o
+ .debug_loc     0x00000000      0xa96 ./build/Debug/sm32f030_crc.o
+ .debug_aranges
+                0x00000000       0x80 ./build/Debug/sm32f030_crc.o
+ .debug_ranges  0x00000000       0x70 ./build/Debug/sm32f030_crc.o
+ .debug_line    0x00000000      0x6f0 ./build/Debug/sm32f030_crc.o
+ .debug_str     0x00000000      0x392 ./build/Debug/sm32f030_crc.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_crc.o
+ .debug_frame   0x00000000      0x104 ./build/Debug/sm32f030_crc.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_crc.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_flash.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_flash.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_flash.o
+ .text.Flash_EraseSector
+                0x00000000       0x28 ./build/Debug/sm32f030_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x2c ./build/Debug/sm32f030_flash.o
+ .text.FLASH_ProgramWordArray
+                0x00000000       0x40 ./build/Debug/sm32f030_flash.o
+ .debug_info    0x00000000      0x29c ./build/Debug/sm32f030_flash.o
+ .debug_abbrev  0x00000000      0x12b ./build/Debug/sm32f030_flash.o
+ .debug_loc     0x00000000      0x14b ./build/Debug/sm32f030_flash.o
+ .debug_aranges
+                0x00000000       0x30 ./build/Debug/sm32f030_flash.o
+ .debug_ranges  0x00000000       0x20 ./build/Debug/sm32f030_flash.o
+ .debug_line    0x00000000      0x25b ./build/Debug/sm32f030_flash.o
+ .debug_str     0x00000000      0x23d ./build/Debug/sm32f030_flash.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_flash.o
+ .debug_frame   0x00000000       0x60 ./build/Debug/sm32f030_flash.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_flash.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_gpio.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_gpio.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ClearBits
+                0x00000000        0x4 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_InvertBits
+                0x00000000        0x4 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x6 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xe ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x6 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xe ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_SetMask
+                0x00000000        0x4 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_GetMask
+                0x00000000        0x6 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_SetMode
+                0x00000000       0x18 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_GetMode
+                0x00000000        0x6 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ITConfig
+                0x00000000       0x70 ./build/Debug/sm32f030_gpio.o
+ .rodata.GPIO_ITConfig
+                0x00000000       0x14 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ITCmd
+                0x00000000       0x14 ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_GetRawITStatus
+                0x00000000        0xe ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_GetITStatus
+                0x00000000        0xe ./build/Debug/sm32f030_gpio.o
+ .text.GPIO_ClearITPendingBit
+                0x00000000        0x4 ./build/Debug/sm32f030_gpio.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_i2c.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_i2c.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x14 ./build/Debug/sm32f030_i2c.o
+ .text.I2C_SetClockRate
+                0x00000000       0x1c ./build/Debug/sm32f030_i2c.o
+ .text.I2C_GetClockRate
+                0x00000000       0x1c ./build/Debug/sm32f030_i2c.o
+ .text.I2C_MastarInit
+                0x00000000       0x30 ./build/Debug/sm32f030_i2c.o
+ .text.I2C_SlaveInit
+                0x00000000       0x38 ./build/Debug/sm32f030_i2c.o
+ .text.I2C_MasterWriteOneByte
+                0x00000000       0x4c ./build/Debug/sm32f030_i2c.o
+ .text.I2C_MasterReadOneByte
+                0x00000000       0x50 ./build/Debug/sm32f030_i2c.o
+ .text.I2C_MasterWriteBytes
+                0x00000000       0x44 ./build/Debug/sm32f030_i2c.o
+ .text.I2C_MasterReadBytes
+                0x00000000       0x44 ./build/Debug/sm32f030_i2c.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_misc.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_misc.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x20 ./build/Debug/sm32f030_misc.o
+ .text.SysTick_Delay_us
+                0x00000000       0x3c ./build/Debug/sm32f030_misc.o
+ .text.SysTick_Delay_ms
+                0x00000000       0x38 ./build/Debug/sm32f030_misc.o
+ .debug_info    0x00000000      0x17d ./build/Debug/sm32f030_misc.o
+ .debug_abbrev  0x00000000       0xf6 ./build/Debug/sm32f030_misc.o
+ .debug_loc     0x00000000       0x81 ./build/Debug/sm32f030_misc.o
+ .debug_aranges
+                0x00000000       0x30 ./build/Debug/sm32f030_misc.o
+ .debug_ranges  0x00000000       0x20 ./build/Debug/sm32f030_misc.o
+ .debug_line    0x00000000      0x22f ./build/Debug/sm32f030_misc.o
+ .debug_str     0x00000000      0x209 ./build/Debug/sm32f030_misc.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_misc.o
+ .debug_frame   0x00000000       0x40 ./build/Debug/sm32f030_misc.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_misc.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_pwm.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_pwm.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_pwm.o
+ .text.PWM_DeInit
+                0x00000000       0x18 ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetPrescaler
+                0x00000000       0x14 ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetModulo
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_OutputPairConfig
+                0x00000000       0x24 ./build/Debug/sm32f030_pwm.o
+ .text.PWM_Init
+                0x00000000       0x20 ./build/Debug/sm32f030_pwm.o
+ .text.PWM_Cmd  0x00000000       0x4c ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetCompare0
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetCompare1
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetCompare2
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetCompare3
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetCompare4
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetCompare5
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetRiseDeadZone
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .text.PWM_SetFallDeadZone
+                0x00000000        0xc ./build/Debug/sm32f030_pwm.o
+ .debug_info    0x00000000      0x5a4 ./build/Debug/sm32f030_pwm.o
+ .debug_abbrev  0x00000000      0x14a ./build/Debug/sm32f030_pwm.o
+ .debug_loc     0x00000000      0x10d ./build/Debug/sm32f030_pwm.o
+ .debug_aranges
+                0x00000000       0x88 ./build/Debug/sm32f030_pwm.o
+ .debug_ranges  0x00000000       0x78 ./build/Debug/sm32f030_pwm.o
+ .debug_line    0x00000000      0x3a8 ./build/Debug/sm32f030_pwm.o
+ .debug_str     0x00000000      0x4fd ./build/Debug/sm32f030_pwm.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_pwm.o
+ .debug_frame   0x00000000      0x104 ./build/Debug/sm32f030_pwm.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_pwm.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_spi.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_spi.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_spi.o
+ .text.SPI_DeInit
+                0x00000000       0x14 ./build/Debug/sm32f030_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x14 ./build/Debug/sm32f030_spi.o
+ .text.SPI_Init
+                0x00000000       0x34 ./build/Debug/sm32f030_spi.o
+ .text.SPI_Cmd  0x00000000       0x20 ./build/Debug/sm32f030_spi.o
+ .text.SPI_WriteFIFO
+                0x00000000       0x1c ./build/Debug/sm32f030_spi.o
+ .text.SPI_ReadFIFO
+                0x00000000       0x2c ./build/Debug/sm32f030_spi.o
+ .text.SPI_WriteOneData
+                0x00000000       0x18 ./build/Debug/sm32f030_spi.o
+ .text.SPI_ReadOneData
+                0x00000000       0x18 ./build/Debug/sm32f030_spi.o
+ .text.SPI_ReadWriteData
+                0x00000000       0x30 ./build/Debug/sm32f030_spi.o
+ .debug_info    0x00000000      0x3bf ./build/Debug/sm32f030_spi.o
+ .debug_abbrev  0x00000000      0x1a6 ./build/Debug/sm32f030_spi.o
+ .debug_loc     0x00000000      0x157 ./build/Debug/sm32f030_spi.o
+ .debug_aranges
+                0x00000000       0x60 ./build/Debug/sm32f030_spi.o
+ .debug_ranges  0x00000000       0x50 ./build/Debug/sm32f030_spi.o
+ .debug_line    0x00000000      0x3d8 ./build/Debug/sm32f030_spi.o
+ .debug_str     0x00000000      0x31e ./build/Debug/sm32f030_spi.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_spi.o
+ .debug_frame   0x00000000       0xbc ./build/Debug/sm32f030_spi.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_spi.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_sysctrl.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_sysctrl.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_MemoryRemapConfig
+                0x00000000        0xc ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_SelectMainClkSrc
+                0x00000000       0x14 ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_SelectClkOutSrc
+                0x00000000       0x18 ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_ClkOutDivConfig
+                0x00000000        0xc ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_GetResetFlag
+                0x00000000       0x14 ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_ClearResetFlag
+                0x00000000        0xc ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_AHBClockDivConfig
+                0x00000000        0xc ./build/Debug/sm32f030_sysctrl.o
+ .text.SYSCON_AHBPeriphClockCmd
+                0x00000000       0x20 ./build/Debug/sm32f030_sysctrl.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_tim.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_tim.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_tim.o
+ .text.TIM_DeInit
+                0x00000000       0x50 ./build/Debug/sm32f030_tim.o
+ .text.TIM_SetPrescaler
+                0x00000000        0x4 ./build/Debug/sm32f030_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 ./build/Debug/sm32f030_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x6 ./build/Debug/sm32f030_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x6 ./build/Debug/sm32f030_tim.o
+ .text.TIM_CounterReset
+                0x00000000        0xe ./build/Debug/sm32f030_tim.o
+ .text.TIM_Cmd  0x00000000       0x18 ./build/Debug/sm32f030_tim.o
+ .text.TIM_Match0Config
+                0x00000000        0xe ./build/Debug/sm32f030_tim.o
+ .text.TIM_Match1Config
+                0x00000000       0x10 ./build/Debug/sm32f030_tim.o
+ .text.TIM_Match2Config
+                0x00000000       0x14 ./build/Debug/sm32f030_tim.o
+ .text.TIM_Match3Config
+                0x00000000       0x14 ./build/Debug/sm32f030_tim.o
+ .text.TIM_GetITStatus
+                0x00000000        0xe ./build/Debug/sm32f030_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x4 ./build/Debug/sm32f030_tim.o
+ .debug_info    0x00000000      0x5bb ./build/Debug/sm32f030_tim.o
+ .debug_abbrev  0x00000000      0x171 ./build/Debug/sm32f030_tim.o
+ .debug_loc     0x00000000      0x283 ./build/Debug/sm32f030_tim.o
+ .debug_aranges
+                0x00000000       0x80 ./build/Debug/sm32f030_tim.o
+ .debug_ranges  0x00000000       0x70 ./build/Debug/sm32f030_tim.o
+ .debug_line    0x00000000      0x3af ./build/Debug/sm32f030_tim.o
+ .debug_str     0x00000000      0x33a ./build/Debug/sm32f030_tim.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_tim.o
+ .debug_frame   0x00000000       0xe8 ./build/Debug/sm32f030_tim.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_tim.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_uart.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_uart.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_uart.o
+ .text.UART_ReadFIFO
+                0x00000000        0x6 ./build/Debug/sm32f030_uart.o
+ .text.UART_ClearFIFO
+                0x00000000        0x4 ./build/Debug/sm32f030_uart.o
+ .text.UART_GetFlagStatus
+                0x00000000        0xe ./build/Debug/sm32f030_uart.o
+ .text.UART_ClearFlag
+                0x00000000        0x4 ./build/Debug/sm32f030_uart.o
+ .text.UART_GetITStatus
+                0x00000000        0xe ./build/Debug/sm32f030_uart.o
+ .text.UART_ClearITPendingBit
+                0x00000000        0x4 ./build/Debug/sm32f030_uart.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f030_wdt.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f030_wdt.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_DeInit
+                0x00000000       0x18 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_ClockConfig
+                0x00000000       0x20 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_SetMode
+                0x00000000       0x14 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_SetReload
+                0x00000000        0xc ./build/Debug/sm32f030_wdt.o
+ .text.WDT_Cmd  0x00000000       0x20 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_Feed
+                0x00000000       0x10 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_SetWarningValue
+                0x00000000        0xc ./build/Debug/sm32f030_wdt.o
+ .text.WDT_SetWindowValue
+                0x00000000        0xc ./build/Debug/sm32f030_wdt.o
+ .text.WDT_GetITStatus
+                0x00000000       0x14 ./build/Debug/sm32f030_wdt.o
+ .text.WDT_ClearITPendingBit
+                0x00000000       0x18 ./build/Debug/sm32f030_wdt.o
+ .debug_info    0x00000000      0x61f ./build/Debug/sm32f030_wdt.o
+ .debug_abbrev  0x00000000      0x1bc ./build/Debug/sm32f030_wdt.o
+ .debug_loc     0x00000000      0x10a ./build/Debug/sm32f030_wdt.o
+ .debug_aranges
+                0x00000000       0x68 ./build/Debug/sm32f030_wdt.o
+ .debug_ranges  0x00000000       0x58 ./build/Debug/sm32f030_wdt.o
+ .debug_line    0x00000000      0x301 ./build/Debug/sm32f030_wdt.o
+ .debug_str     0x00000000      0x503 ./build/Debug/sm32f030_wdt.o
+ .comment       0x00000000       0x4e ./build/Debug/sm32f030_wdt.o
+ .debug_frame   0x00000000       0xc0 ./build/Debug/sm32f030_wdt.o
+ .ARM.attributes
+                0x00000000       0x2c ./build/Debug/sm32f030_wdt.o
+ .text          0x00000000        0x0 ./build/Debug/freertos.o
+ .data          0x00000000        0x0 ./build/Debug/freertos.o
+ .bss           0x00000000        0x0 ./build/Debug/freertos.o
+ .debug_info    0x00000000       0x6b ./build/Debug/freertos.o
+ .debug_abbrev  0x00000000       0x26 ./build/Debug/freertos.o
+ .debug_aranges
+                0x00000000       0x18 ./build/Debug/freertos.o
+ .debug_line    0x00000000       0x1d ./build/Debug/freertos.o
+ .debug_str     0x00000000      0x168 ./build/Debug/freertos.o
+ .comment       0x00000000       0x4e ./build/Debug/freertos.o
+ .ARM.attributes
+                0x00000000       0x31 ./build/Debug/freertos.o
+ .text          0x00000000        0x0 ./build/Debug/main.o
+ .data          0x00000000        0x0 ./build/Debug/main.o
+ .bss           0x00000000        0x0 ./build/Debug/main.o
+ .text.Error_Handler
+                0x00000000        0x2 ./build/Debug/main.o
+ .text          0x00000000        0x0 ./build/Debug/sm32f0xx_it.o
+ .data          0x00000000        0x0 ./build/Debug/sm32f0xx_it.o
+ .bss           0x00000000        0x0 ./build/Debug/sm32f0xx_it.o
+ .text          0x00000000        0x0 ./build/Debug/system_sm32f030.o
+ .data          0x00000000        0x0 ./build/Debug/system_sm32f030.o
+ .bss           0x00000000        0x0 ./build/Debug/system_sm32f030.o
+ .text          0x00000000       0x14 ./build/Debug/startup_sm32f030.o
+ .data          0x00000000        0x0 ./build/Debug/startup_sm32f030.o
+ .bss           0x00000000        0x0 ./build/Debug/startup_sm32f030.o
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x12 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x00000000       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x36 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x00000000       0x1c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x14 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x00000000      0x2d0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000       0x30 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fvwrite.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x00000000       0x26 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x4c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000000       0x30 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00000000       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .text          0x00000000      0x1d4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x10000000         0x00002000         xrw
+FLASH            0x00000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD ./build/Debug/cmsis_os.o
+LOAD ./build/Debug/croutine.o
+LOAD ./build/Debug/event_groups.o
+LOAD ./build/Debug/list.o
+LOAD ./build/Debug/port.o
+LOAD ./build/Debug/heap_4.o
+LOAD ./build/Debug/queue.o
+LOAD ./build/Debug/tasks.o
+LOAD ./build/Debug/timers.o
+LOAD ./build/Debug/sm32f030_adc.o
+LOAD ./build/Debug/sm32f030_crc.o
+LOAD ./build/Debug/sm32f030_flash.o
+LOAD ./build/Debug/sm32f030_gpio.o
+LOAD ./build/Debug/sm32f030_i2c.o
+LOAD ./build/Debug/sm32f030_misc.o
+LOAD ./build/Debug/sm32f030_pwm.o
+LOAD ./build/Debug/sm32f030_spi.o
+LOAD ./build/Debug/sm32f030_sysctrl.o
+LOAD ./build/Debug/sm32f030_tim.o
+LOAD ./build/Debug/sm32f030_uart.o
+LOAD ./build/Debug/sm32f030_wdt.o
+LOAD ./build/Debug/freertos.o
+LOAD ./build/Debug/main.o
+LOAD ./build/Debug/sm32f0xx_it.o
+LOAD ./build/Debug/system_sm32f030.o
+LOAD ./build/Debug/startup_sm32f030.o
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+START GROUP
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtend.o
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+                0x10002000                _estack = 0x10002000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x00000000       0xc0
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./build/Debug/startup_sm32f030.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+
+.text           0x000000c0     0x21d8
+                0x000000c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000c0       0x48 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000108      0x114 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x00000108                __aeabi_uidiv
+                0x00000108                __udivsi3
+                0x00000214                __aeabi_uidivmod
+ .text          0x0000021c        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x0000021c                __aeabi_idiv0
+                0x0000021c                __aeabi_ldiv0
+ .text          0x00000220       0x14 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+                0x00000220                __gnu_thumb1_case_shi
+ *(.text*)
+ .text.makeFreeRtosPriority
+                0x00000234        0xc ./build/Debug/cmsis_os.o
+ .text.osKernelStart
+                0x00000240        0xa ./build/Debug/cmsis_os.o
+                0x00000240                osKernelStart
+ .text.osThreadCreate
+                0x0000024a       0x34 ./build/Debug/cmsis_os.o
+                0x0000024a                osThreadCreate
+ .text.osDelay  0x0000027e       0x10 ./build/Debug/cmsis_os.o
+                0x0000027e                osDelay
+ .text.vListInitialise
+                0x0000028e       0x16 ./build/Debug/list.o
+                0x0000028e                vListInitialise
+ .text.vListInitialiseItem
+                0x000002a4        0x6 ./build/Debug/list.o
+                0x000002a4                vListInitialiseItem
+ .text.vListInsertEnd
+                0x000002aa       0x16 ./build/Debug/list.o
+                0x000002aa                vListInsertEnd
+ .text.vListInsert
+                0x000002c0       0x2e ./build/Debug/list.o
+                0x000002c0                vListInsert
+ .text.uxListRemove
+                0x000002ee       0x24 ./build/Debug/list.o
+                0x000002ee                uxListRemove
+ *fill*         0x00000312        0x2 
+ .text.prvTaskExitError
+                0x00000314       0x14 ./build/Debug/port.o
+ *fill*         0x00000328        0x8 
+ .text.vPortStartFirstTask
+                0x00000330       0x34 ./build/Debug/port.o
+ .text.pxPortInitialiseStack
+                0x00000364       0x20 ./build/Debug/port.o
+                0x00000364                pxPortInitialiseStack
+ .text.SVC_Handler
+                0x00000384        0x2 ./build/Debug/port.o
+                0x00000384                SVC_Handler
+ *fill*         0x00000386        0x2 
+ .text.vPortYield
+                0x00000388       0x18 ./build/Debug/port.o
+                0x00000388                vPortYield
+ .text.vPortEnterCritical
+                0x000003a0       0x18 ./build/Debug/port.o
+                0x000003a0                vPortEnterCritical
+ .text.vPortExitCritical
+                0x000003b8       0x20 ./build/Debug/port.o
+                0x000003b8                vPortExitCritical
+ .text.ulSetInterruptMaskFromISR
+                0x000003d8        0xa ./build/Debug/port.o
+                0x000003d8                ulSetInterruptMaskFromISR
+ .text.vClearInterruptMaskFromISR
+                0x000003e2        0x6 ./build/Debug/port.o
+                0x000003e2                vClearInterruptMaskFromISR
+ *fill*         0x000003e8        0x8 
+ .text.PendSV_Handler
+                0x000003f0       0x44 ./build/Debug/port.o
+                0x000003f0                PendSV_Handler
+ .text.xPortSysTickHandler
+                0x00000434       0x24 ./build/Debug/port.o
+                0x00000434                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x00000458       0x28 ./build/Debug/port.o
+                0x00000458                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x00000480       0x34 ./build/Debug/port.o
+                0x00000480                xPortStartScheduler
+ .text.prvHeapInit
+                0x000004b4       0x64 ./build/Debug/heap_4.o
+ .text.prvInsertBlockIntoFreeList
+                0x00000518       0x54 ./build/Debug/heap_4.o
+ .text.pvPortMalloc
+                0x0000056c       0xd0 ./build/Debug/heap_4.o
+                0x0000056c                pvPortMalloc
+ .text.vPortFree
+                0x0000063c       0x54 ./build/Debug/heap_4.o
+                0x0000063c                vPortFree
+ .text.prvResetNextTaskUnblockTime
+                0x00000690       0x2c ./build/Debug/tasks.o
+ .text.prvDeleteTCB
+                0x000006bc       0x12 ./build/Debug/tasks.o
+ *fill*         0x000006ce        0x2 
+ .text.prvInitialiseNewTask
+                0x000006d0       0x94 ./build/Debug/tasks.o
+ .text.prvInitialiseTaskLists
+                0x00000764       0x68 ./build/Debug/tasks.o
+ .text.prvAddNewTaskToReadyList
+                0x000007cc       0xa0 ./build/Debug/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x0000086c       0x7c ./build/Debug/tasks.o
+ .text.xTaskCreate
+                0x000008e8       0x60 ./build/Debug/tasks.o
+                0x000008e8                xTaskCreate
+ .text.vTaskStartScheduler
+                0x00000948       0x5c ./build/Debug/tasks.o
+                0x00000948                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x000009a4       0x10 ./build/Debug/tasks.o
+                0x000009a4                vTaskSuspendAll
+ .text.xTaskIncrementTick
+                0x000009b4      0x114 ./build/Debug/tasks.o
+                0x000009b4                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x00000ac8       0xe8 ./build/Debug/tasks.o
+                0x00000ac8                xTaskResumeAll
+ .text.vTaskDelay
+                0x00000bb0       0x30 ./build/Debug/tasks.o
+                0x00000bb0                vTaskDelay
+ .text.prvCheckTasksWaitingTermination
+                0x00000be0       0x54 ./build/Debug/tasks.o
+ .text.prvIdleTask
+                0x00000c34       0x18 ./build/Debug/tasks.o
+ .text.vTaskSwitchContext
+                0x00000c4c       0x88 ./build/Debug/tasks.o
+                0x00000c4c                vTaskSwitchContext
+ .text.xTaskGetSchedulerState
+                0x00000cd4       0x24 ./build/Debug/tasks.o
+                0x00000cd4                xTaskGetSchedulerState
+ .text.GPIO_Init
+                0x00000cf8       0x38 ./build/Debug/sm32f030_gpio.o
+                0x00000cf8                GPIO_Init
+ .text.I2C_IRQHandler
+                0x00000d30      0x234 ./build/Debug/sm32f030_i2c.o
+                0x00000d30                I2C_IRQHandler
+ .text.SYSCON_AHBPeriphResetCmd
+                0x00000f64       0x1c ./build/Debug/sm32f030_sysctrl.o
+                0x00000f64                SYSCON_AHBPeriphResetCmd
+ .text.UART_DeInit
+                0x00000f80       0x3c ./build/Debug/sm32f030_uart.o
+                0x00000f80                UART_DeInit
+ .text.UART_Init
+                0x00000fbc       0x54 ./build/Debug/sm32f030_uart.o
+                0x00000fbc                UART_Init
+ .text.UART_WriteFIFO
+                0x00001010        0x4 ./build/Debug/sm32f030_uart.o
+                0x00001010                UART_WriteFIFO
+ .text.UART_Send
+                0x00001014       0x26 ./build/Debug/sm32f030_uart.o
+                0x00001014                UART_Send
+ .text.UART_ITConfig
+                0x0000103a       0x14 ./build/Debug/sm32f030_uart.o
+                0x0000103a                UART_ITConfig
+ *fill*         0x0000104e        0x2 
+ .text.MX_USART0_UART_Init
+                0x00001050       0x4c ./build/Debug/main.o
+ .text.StartDefaultTask
+                0x0000109c       0x20 ./build/Debug/main.o
+                0x0000109c                StartDefaultTask
+ .text.StartTask02
+                0x000010bc       0x20 ./build/Debug/main.o
+                0x000010bc                StartTask02
+ .text.StartTask03
+                0x000010dc       0x24 ./build/Debug/main.o
+                0x000010dc                StartTask03
+ .text._write   0x00001100       0x24 ./build/Debug/main.o
+                0x00001100                _write
+ .text.SystemClock_Config
+                0x00001124        0xc ./build/Debug/main.o
+                0x00001124                SystemClock_Config
+ .text.main     0x00001130       0x70 ./build/Debug/main.o
+                0x00001130                main
+ .text.NMI_Handler
+                0x000011a0        0x2 ./build/Debug/sm32f0xx_it.o
+                0x000011a0                NMI_Handler
+ .text.HardFault_Handler
+                0x000011a2        0x2 ./build/Debug/sm32f0xx_it.o
+                0x000011a2                HardFault_Handler
+ .text.SysTick_Handler
+                0x000011a4       0x12 ./build/Debug/sm32f0xx_it.o
+                0x000011a4                SysTick_Handler
+ *fill*         0x000011b6        0x2 
+ .text.SystemCoreClockUpdate
+                0x000011b8       0x5c ./build/Debug/system_sm32f030.o
+                0x000011b8                SystemCoreClockUpdate
+ .text.SystemInit
+                0x00001214       0x18 ./build/Debug/system_sm32f030.o
+                0x00001214                SystemInit
+ .text.Reset_Handler
+                0x0000122c       0x50 ./build/Debug/startup_sm32f030.o
+                0x0000122c                Reset_Handler
+ .text.Default_Handler
+                0x0000127c        0x2 ./build/Debug/startup_sm32f030.o
+                0x0000127c                GPIOB_IRQHandler
+                0x0000127c                GPIOA_IRQHandler
+                0x0000127c                UART1_IRQHandler
+                0x0000127c                PWM_Fault_IRQHandler
+                0x0000127c                UART0_IRQHandler
+                0x0000127c                WakeUp_IRQHandler
+                0x0000127c                RTC_IRQHandler
+                0x0000127c                SPI_IRQHandler
+                0x0000127c                GPIOC_IRQHandler
+                0x0000127c                TIM3_IRQHandler
+                0x0000127c                Default_Handler
+                0x0000127c                TIM1_IRQHandler
+                0x0000127c                ADC_IRQHandler
+                0x0000127c                PWM_Reload_IRQHandler
+                0x0000127c                BOD_IRQHandler
+                0x0000127c                TIM0_IRQHandler
+                0x0000127c                WDT_IRQHandler
+                0x0000127c                TIM2_IRQHandler
+ *fill*         0x0000127e        0x2 
+ .text.__libc_init_array
+                0x00001280       0x48 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                0x00001280                __libc_init_array
+ .text.memset   0x000012c8       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                0x000012c8                memset
+ .text.printf   0x000012d8       0x34 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+                0x000012d8                iprintf
+                0x000012d8                printf
+ .text.std      0x0000130c       0x48 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00001354       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x00001354                _cleanup_r
+ .text.__sfmoreglue
+                0x00001364       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x00001364                __sfmoreglue
+ .text.__sfp_lock_acquire
+                0x00001390       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x00001390                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x000013a0       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x000013a0                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x000013b0       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x000013b0                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x000013c0       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x000013c0                __sinit_lock_release
+ .text.__sinit  0x000013d0       0x70 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x000013d0                __sinit
+ .text.__sfp    0x00001440       0x90 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x00001440                __sfp
+ .text._fwalk_reent
+                0x000014d0       0x40 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+                0x000014d0                _fwalk_reent
+ .text.__retarget_lock_init_recursive
+                0x00001510        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                0x00001510                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x00001512        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                0x00001512                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00001514        0x2 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                0x00001514                __retarget_lock_release_recursive
+ *fill*         0x00001516        0x2 
+ .text._malloc_r
+                0x00001518       0xbc e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x00001518                _malloc_r
+ .text.__sfputc_r
+                0x000015d4       0x2a e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x000015fe       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x000015fe                __sfputs_r
+ *fill*         0x00001622        0x2 
+ .text._vfprintf_r
+                0x00001624      0x274 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00001624                _vfprintf_r
+                0x00001624                _vfiprintf_r
+ .text._printf_common
+                0x00001898       0xde e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001898                _printf_common
+ *fill*         0x00001976        0x2 
+ .text._printf_i
+                0x00001978      0x224 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001978                _printf_i
+ .text._sbrk_r  0x00001b9c       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+                0x00001b9c                _sbrk_r
+ .text.__sread  0x00001bc0       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+                0x00001bc0                __sread
+ .text.__swrite
+                0x00001be8       0x38 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+                0x00001be8                __swrite
+ .text.__sseek  0x00001c20       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+                0x00001c20                __sseek
+ .text.__sclose
+                0x00001c4c        0xc e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+                0x00001c4c                __sclose
+ .text.__swbuf_r
+                0x00001c58       0xac e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+                0x00001c58                __swbuf_r
+ .text._write_r
+                0x00001d04       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+                0x00001d04                _write_r
+ .text.__swsetup_r
+                0x00001d2c       0xf0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+                0x00001d2c                __swsetup_r
+ .text._close_r
+                0x00001e1c       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+                0x00001e1c                _close_r
+ .text.__sflush_r
+                0x00001e40      0x118 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+                0x00001e40                __sflush_r
+ .text._fflush_r
+                0x00001f58       0x80 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+                0x00001f58                _fflush_r
+ .text._lseek_r
+                0x00001fd8       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+                0x00001fd8                _lseek_r
+ .text.__swhatbuf_r
+                0x00002000       0x50 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+                0x00002000                __swhatbuf_r
+ .text.__smakebuf_r
+                0x00002050       0x88 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+                0x00002050                __smakebuf_r
+ .text.memchr   0x000020d8       0x16 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+                0x000020d8                memchr
+ *fill*         0x000020ee        0x2 
+ .text.__malloc_lock
+                0x000020f0       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+                0x000020f0                __malloc_lock
+ .text.__malloc_unlock
+                0x00002100       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+                0x00002100                __malloc_unlock
+ .text._free_r  0x00002110       0x94 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+                0x00002110                _free_r
+ .text._read_r  0x000021a4       0x28 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+                0x000021a4                _read_r
+ .text._fstat_r
+                0x000021cc       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+                0x000021cc                _fstat_r
+ .text._isatty_r
+                0x000021f0       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+                0x000021f0                _isatty_r
+ .text._close   0x00002214       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+                0x00002214                _close
+ .text._fstat   0x00002224       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+                0x00002224                _fstat
+ .text._isatty  0x00002234       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+                0x00002234                _isatty
+ .text._lseek   0x00002244       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+                0x00002244                _lseek
+ .text._read    0x00002254       0x10 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+                0x00002254                _read
+ .text._sbrk    0x00002264       0x1c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+                0x00002264                _sbrk
+ *(.glue_7)
+ .glue_7        0x00002280        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00002280        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00002280        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x00002280        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+                0x00002280                _init
+ .init          0x00002284        0x8 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000228c        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+                0x0000228c                _fini
+ .fini          0x00002290        0x8 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+                0x00002298                . = ALIGN (0x4)
+                0x00002298                _etext = .
+
+.vfp11_veneer   0x00002298        0x0
+ .vfp11_veneer  0x00002298        0x0 linker stubs
+
+.v4_bx          0x00002298        0x0
+ .v4_bx         0x00002298        0x0 linker stubs
+
+.iplt           0x00002298        0x0
+ .iplt          0x00002298        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x00002298      0x188
+                0x00002298                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x00002298       0x3c ./build/Debug/main.o
+ *(.rodata*)
+ .rodata.vTaskStartScheduler.str1.4
+                0x000022d4        0x5 ./build/Debug/tasks.o
+ *fill*         0x000022d9        0x3 
+ .rodata.I2C_IRQHandler
+                0x000022dc       0x78 ./build/Debug/sm32f030_i2c.o
+ .rodata.str1.4
+                0x00002354       0x21 ./build/Debug/main.o
+ *fill*         0x00002375        0x3 
+ .rodata.StartDefaultTask.str1.4
+                0x00002378        0x7 ./build/Debug/main.o
+ *fill*         0x0000237f        0x1 
+ .rodata.StartTask02.str1.4
+                0x00002380        0x5 ./build/Debug/main.o
+ *fill*         0x00002385        0x3 
+ .rodata._global_impure_ptr
+                0x00002388        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x00002388                _global_impure_ptr
+ .rodata.__sf_fake_stderr
+                0x0000238c       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x0000238c                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x000023ac       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x000023ac                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x000023cc       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+                0x000023cc                __sf_fake_stdout
+ .rodata._vfprintf_r.str1.1
+                0x000023ec       0x11 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x000023fd       0x22 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00002420                . = ALIGN (0x4)
+ *fill*         0x0000241f        0x1 
+
+.rel.dyn        0x00002420        0x0
+ .rel.iplt      0x00002420        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00002420        0x0
+                0x00002420                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00002420                __exidx_end = .
+
+.preinit_array  0x00002420        0x0
+                0x00002420                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00002420                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00002420        0x4
+                0x00002420                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00002420        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+                0x00002424                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00002424        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00002424        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x00002428                _sidata = LOADADDR (.data)
+
+.data           0x10000000       0x70 load address 0x00002428
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x10000000        0x4 ./build/Debug/port.o
+ .data.MainClock
+                0x10000004        0x4 ./build/Debug/system_sm32f030.o
+                0x10000004                MainClock
+ .data.SystemCoreClock
+                0x10000008        0x4 ./build/Debug/system_sm32f030.o
+                0x10000008                SystemCoreClock
+ .data._impure_ptr
+                0x1000000c        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x1000000c                _impure_ptr
+ .data.impure_data
+                0x10000010       0x60 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x10000070                . = ALIGN (0x4)
+                0x10000070                _edata = .
+
+.igot.plt       0x10000070        0x0 load address 0x00002498
+ .igot.plt      0x10000070        0x0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+                0x10000070                . = ALIGN (0x4)
+
+.bss            0x10000070      0xd9c load address 0x00002498
+                0x10000070                _sbss = .
+                0x10000070                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x10000070       0x1c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.pxEnd     0x1000008c        0x4 ./build/Debug/heap_4.o
+ .bss.ucHeap    0x10000090      0xc00 ./build/Debug/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x10000c90        0x4 ./build/Debug/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x10000c94        0x4 ./build/Debug/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x10000c98        0x4 ./build/Debug/heap_4.o
+ .bss.xStart    0x10000c9c        0x8 ./build/Debug/heap_4.o
+ .bss.pxCurrentTCB
+                0x10000ca4        0x4 ./build/Debug/tasks.o
+                0x10000ca4                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x10000ca8        0x4 ./build/Debug/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x10000cac        0x4 ./build/Debug/tasks.o
+ .bss.pxReadyTasksLists
+                0x10000cb0       0x8c ./build/Debug/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x10000d3c        0x4 ./build/Debug/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x10000d40        0x4 ./build/Debug/tasks.o
+ .bss.uxPendedTicks
+                0x10000d44        0x4 ./build/Debug/tasks.o
+ .bss.uxSchedulerSuspended
+                0x10000d48        0x4 ./build/Debug/tasks.o
+ .bss.uxTaskNumber
+                0x10000d4c        0x4 ./build/Debug/tasks.o
+ .bss.uxTopReadyPriority
+                0x10000d50        0x4 ./build/Debug/tasks.o
+ .bss.xDelayedTaskList1
+                0x10000d54       0x14 ./build/Debug/tasks.o
+ .bss.xDelayedTaskList2
+                0x10000d68       0x14 ./build/Debug/tasks.o
+ .bss.xIdleTaskHandle
+                0x10000d7c        0x4 ./build/Debug/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x10000d80        0x4 ./build/Debug/tasks.o
+ .bss.xNumOfOverflows
+                0x10000d84        0x4 ./build/Debug/tasks.o
+ .bss.xPendingReadyList
+                0x10000d88       0x14 ./build/Debug/tasks.o
+ .bss.xSchedulerRunning
+                0x10000d9c        0x4 ./build/Debug/tasks.o
+ .bss.xSuspendedTaskList
+                0x10000da0       0x14 ./build/Debug/tasks.o
+ .bss.xTasksWaitingTermination
+                0x10000db4       0x14 ./build/Debug/tasks.o
+ .bss.xTickCount
+                0x10000dc8        0x4 ./build/Debug/tasks.o
+ .bss.xYieldPending
+                0x10000dcc        0x4 ./build/Debug/tasks.o
+ .bss.firstByte
+                0x10000dd0        0x1 ./build/Debug/sm32f030_i2c.o
+ .bss.masterStatus
+                0x10000dd1        0x1 ./build/Debug/sm32f030_i2c.o
+ *fill*         0x10000dd2        0x2 
+ .bss.pRxBuf    0x10000dd4        0x4 ./build/Debug/sm32f030_i2c.o
+ .bss.pTxBuf    0x10000dd8        0x4 ./build/Debug/sm32f030_i2c.o
+ .bss.rxSz      0x10000ddc        0x4 ./build/Debug/sm32f030_i2c.o
+ .bss.slveEventHandler
+                0x10000de0        0x4 ./build/Debug/sm32f030_i2c.o
+ .bss.txSz      0x10000de4        0x4 ./build/Debug/sm32f030_i2c.o
+ .bss.cnt       0x10000de8        0x2 ./build/Debug/main.o
+                0x10000de8                cnt
+ *fill*         0x10000dea        0x2 
+ .bss.defaultTaskHandle
+                0x10000dec        0x4 ./build/Debug/main.o
+                0x10000dec                defaultTaskHandle
+ .bss.myTask02Handle
+                0x10000df0        0x4 ./build/Debug/main.o
+                0x10000df0                myTask02Handle
+ .bss.myTask03Handle
+                0x10000df4        0x4 ./build/Debug/main.o
+                0x10000df4                myTask03Handle
+ .bss.__lock___malloc_recursive_mutex
+                0x10000df8        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                0x10000df8                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x10000df9        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                0x10000df9                __lock___sfp_recursive_mutex
+ .bss.__lock___sinit_recursive_mutex
+                0x10000dfa        0x1 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+                0x10000dfa                __lock___sinit_recursive_mutex
+ *fill*         0x10000dfb        0x1 
+ .bss.__malloc_free_list
+                0x10000dfc        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x10000dfc                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x10000e00        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x10000e00                __malloc_sbrk_start
+ .bss.errno     0x10000e04        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+                0x10000e04                errno
+ .bss.heap_end.0
+                0x10000e08        0x4 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ *(COMMON)
+                0x10000e0c                . = ALIGN (0x4)
+                0x10000e0c                _ebss = .
+                0x10000e0c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x10000e0c      0x604 load address 0x00002498
+                0x10000e10                . = ALIGN (0x8)
+ *fill*         0x10000e0c        0x4 
+                0x10000e10                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x10001010                . = (. + _Min_Heap_Size)
+ *fill*         0x10000e10      0x200 
+                0x10001410                . = (. + _Min_Stack_Size)
+ *fill*         0x10001010      0x400 
+                0x10001410                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c ./build/Debug/cmsis_os.o
+ .ARM.attributes
+                0x00000076       0x2c ./build/Debug/list.o
+ .ARM.attributes
+                0x000000a2       0x2c ./build/Debug/port.o
+ .ARM.attributes
+                0x000000ce       0x2c ./build/Debug/heap_4.o
+ .ARM.attributes
+                0x000000fa       0x2c ./build/Debug/tasks.o
+ .ARM.attributes
+                0x00000126       0x2c ./build/Debug/sm32f030_gpio.o
+ .ARM.attributes
+                0x00000152       0x2c ./build/Debug/sm32f030_i2c.o
+ .ARM.attributes
+                0x0000017e       0x2c ./build/Debug/sm32f030_sysctrl.o
+ .ARM.attributes
+                0x000001aa       0x2c ./build/Debug/sm32f030_uart.o
+ .ARM.attributes
+                0x000001d6       0x2c ./build/Debug/main.o
+ .ARM.attributes
+                0x00000202       0x2c ./build/Debug/sm32f0xx_it.o
+ .ARM.attributes
+                0x0000022e       0x2c ./build/Debug/system_sm32f030.o
+ .ARM.attributes
+                0x0000025a       0x21 ./build/Debug/startup_sm32f030.o
+ .ARM.attributes
+                0x0000027b       0x1e e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000299       0x1e e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002b7       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002e3       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000030f       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000033b       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x00000367       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000393       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000003bf       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000003eb       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000417       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000443       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000046f       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000049b       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000004c7       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x000004f3       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000051f       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000054b       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000577       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x000005a3       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000005cf       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000005fb       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000627       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000653       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000067f       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000006ab       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000006d7       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000703       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000072f       0x1e e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .ARM.attributes
+                0x0000074d       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .ARM.attributes
+                0x00000779       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+ .ARM.attributes
+                0x000007a5       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+ .ARM.attributes
+                0x000007d1       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .ARM.attributes
+                0x000007fd       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .ARM.attributes
+                0x00000829       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000855       0x1e e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(./build/Debug/SM32F0_OS.elf elf32-littlearm)
+LOAD linker stubs
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0x7716
+ .debug_info    0x00000000     0x1dc4 ./build/Debug/cmsis_os.o
+ .debug_info    0x00001dc4      0x2ce ./build/Debug/list.o
+ .debug_info    0x00002092      0x2de ./build/Debug/port.o
+ .debug_info    0x00002370      0x3b9 ./build/Debug/heap_4.o
+ .debug_info    0x00002729     0x1eb7 ./build/Debug/tasks.o
+ .debug_info    0x000045e0      0x802 ./build/Debug/sm32f030_gpio.o
+ .debug_info    0x00004de2      0xb9a ./build/Debug/sm32f030_i2c.o
+ .debug_info    0x0000597c      0x55d ./build/Debug/sm32f030_sysctrl.o
+ .debug_info    0x00005ed9      0x722 ./build/Debug/sm32f030_uart.o
+ .debug_info    0x000065fb      0xa40 ./build/Debug/main.o
+ .debug_info    0x0000703b       0xe5 ./build/Debug/sm32f0xx_it.o
+ .debug_info    0x00007120      0x5d4 ./build/Debug/system_sm32f030.o
+ .debug_info    0x000076f4       0x22 ./build/Debug/startup_sm32f030.o
+
+.debug_abbrev   0x00000000     0x15b6
+ .debug_abbrev  0x00000000      0x2f9 ./build/Debug/cmsis_os.o
+ .debug_abbrev  0x000002f9       0xff ./build/Debug/list.o
+ .debug_abbrev  0x000003f8      0x1ab ./build/Debug/port.o
+ .debug_abbrev  0x000005a3      0x1df ./build/Debug/heap_4.o
+ .debug_abbrev  0x00000782      0x289 ./build/Debug/tasks.o
+ .debug_abbrev  0x00000a0b      0x160 ./build/Debug/sm32f030_gpio.o
+ .debug_abbrev  0x00000b6b      0x2c9 ./build/Debug/sm32f030_i2c.o
+ .debug_abbrev  0x00000e34      0x139 ./build/Debug/sm32f030_sysctrl.o
+ .debug_abbrev  0x00000f6d      0x1cd ./build/Debug/sm32f030_uart.o
+ .debug_abbrev  0x0000113a      0x27f ./build/Debug/main.o
+ .debug_abbrev  0x000013b9       0xa0 ./build/Debug/sm32f0xx_it.o
+ .debug_abbrev  0x00001459      0x14b ./build/Debug/system_sm32f030.o
+ .debug_abbrev  0x000015a4       0x12 ./build/Debug/startup_sm32f030.o
+
+.debug_loc      0x00000000     0x4070
+ .debug_loc     0x00000000     0x141c ./build/Debug/cmsis_os.o
+ .debug_loc     0x0000141c       0xad ./build/Debug/list.o
+ .debug_loc     0x000014c9       0xbe ./build/Debug/port.o
+ .debug_loc     0x00001587      0x32e ./build/Debug/heap_4.o
+ .debug_loc     0x000018b5     0x1b74 ./build/Debug/tasks.o
+ .debug_loc     0x00003429      0x3cd ./build/Debug/sm32f030_gpio.o
+ .debug_loc     0x000037f6      0x342 ./build/Debug/sm32f030_i2c.o
+ .debug_loc     0x00003b38       0xf8 ./build/Debug/sm32f030_sysctrl.o
+ .debug_loc     0x00003c30      0x335 ./build/Debug/sm32f030_uart.o
+ .debug_loc     0x00003f65      0x10b ./build/Debug/main.o
+
+.debug_aranges  0x00000000      0x738
+ .debug_aranges
+                0x00000000      0x1d8 ./build/Debug/cmsis_os.o
+ .debug_aranges
+                0x000001d8       0x40 ./build/Debug/list.o
+ .debug_aranges
+                0x00000218       0x88 ./build/Debug/port.o
+ .debug_aranges
+                0x000002a0       0x50 ./build/Debug/heap_4.o
+ .debug_aranges
+                0x000002f0      0x190 ./build/Debug/tasks.o
+ .debug_aranges
+                0x00000480       0xa8 ./build/Debug/sm32f030_gpio.o
+ .debug_aranges
+                0x00000528       0x68 ./build/Debug/sm32f030_i2c.o
+ .debug_aranges
+                0x00000590       0x60 ./build/Debug/sm32f030_sysctrl.o
+ .debug_aranges
+                0x000005f0       0x70 ./build/Debug/sm32f030_uart.o
+ .debug_aranges
+                0x00000660       0x58 ./build/Debug/main.o
+ .debug_aranges
+                0x000006b8       0x30 ./build/Debug/sm32f0xx_it.o
+ .debug_aranges
+                0x000006e8       0x28 ./build/Debug/system_sm32f030.o
+ .debug_aranges
+                0x00000710       0x28 ./build/Debug/startup_sm32f030.o
+
+.debug_ranges   0x00000000      0x710
+ .debug_ranges  0x00000000      0x1c8 ./build/Debug/cmsis_os.o
+ .debug_ranges  0x000001c8       0x30 ./build/Debug/list.o
+ .debug_ranges  0x000001f8       0x78 ./build/Debug/port.o
+ .debug_ranges  0x00000270       0x40 ./build/Debug/heap_4.o
+ .debug_ranges  0x000002b0      0x220 ./build/Debug/tasks.o
+ .debug_ranges  0x000004d0       0x98 ./build/Debug/sm32f030_gpio.o
+ .debug_ranges  0x00000568       0x58 ./build/Debug/sm32f030_i2c.o
+ .debug_ranges  0x000005c0       0x50 ./build/Debug/sm32f030_sysctrl.o
+ .debug_ranges  0x00000610       0x60 ./build/Debug/sm32f030_uart.o
+ .debug_ranges  0x00000670       0x48 ./build/Debug/main.o
+ .debug_ranges  0x000006b8       0x20 ./build/Debug/sm32f0xx_it.o
+ .debug_ranges  0x000006d8       0x18 ./build/Debug/system_sm32f030.o
+ .debug_ranges  0x000006f0       0x20 ./build/Debug/startup_sm32f030.o
+
+.debug_line     0x00000000     0x5227
+ .debug_line    0x00000000     0x1023 ./build/Debug/cmsis_os.o
+ .debug_line    0x00001023      0x2d9 ./build/Debug/list.o
+ .debug_line    0x000012fc      0x3b8 ./build/Debug/port.o
+ .debug_line    0x000016b4      0x549 ./build/Debug/heap_4.o
+ .debug_line    0x00001bfd     0x1d9b ./build/Debug/tasks.o
+ .debug_line    0x00003998      0x490 ./build/Debug/sm32f030_gpio.o
+ .debug_line    0x00003e28      0x6db ./build/Debug/sm32f030_i2c.o
+ .debug_line    0x00004503      0x2ac ./build/Debug/sm32f030_sysctrl.o
+ .debug_line    0x000047af      0x3ab ./build/Debug/sm32f030_uart.o
+ .debug_line    0x00004b5a      0x398 ./build/Debug/main.o
+ .debug_line    0x00004ef2      0x107 ./build/Debug/sm32f0xx_it.o
+ .debug_line    0x00004ff9      0x1ae ./build/Debug/system_sm32f030.o
+ .debug_line    0x000051a7       0x80 ./build/Debug/startup_sm32f030.o
+
+.debug_str      0x00000000     0x26b9
+ .debug_str     0x00000000      0xca3 ./build/Debug/cmsis_os.o
+                                0xd9a (size before relaxing)
+ .debug_str     0x00000ca3      0x12f ./build/Debug/list.o
+                                0x2b7 (size before relaxing)
+ .debug_str     0x00000dd2      0x134 ./build/Debug/port.o
+                                0x352 (size before relaxing)
+ .debug_str     0x00000f06      0x1c8 ./build/Debug/heap_4.o
+                                0x36d (size before relaxing)
+ .debug_str     0x000010ce      0x7e5 ./build/Debug/tasks.o
+                                0xd46 (size before relaxing)
+ .debug_str     0x000018b3      0x2f7 ./build/Debug/sm32f030_gpio.o
+                                0x492 (size before relaxing)
+ .debug_str     0x00001baa      0x453 ./build/Debug/sm32f030_i2c.o
+                                0x69f (size before relaxing)
+ .debug_str     0x00001ffd      0x3d4 ./build/Debug/sm32f030_sysctrl.o
+                                0x5d5 (size before relaxing)
+ .debug_str     0x000023d1      0x13c ./build/Debug/sm32f030_uart.o
+                                0x4be (size before relaxing)
+ .debug_str     0x0000250d      0x11c ./build/Debug/main.o
+                                0x4f8 (size before relaxing)
+ .debug_str     0x00002629       0x47 ./build/Debug/sm32f0xx_it.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x00002670       0x1d ./build/Debug/system_sm32f030.o
+                                0x3c1 (size before relaxing)
+ .debug_str     0x0000268d       0x2c ./build/Debug/startup_sm32f030.o
+                                 0x54 (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d ./build/Debug/cmsis_os.o
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e ./build/Debug/list.o
+ .comment       0x0000004d       0x4e ./build/Debug/port.o
+ .comment       0x0000004d       0x4e ./build/Debug/heap_4.o
+ .comment       0x0000004d       0x4e ./build/Debug/tasks.o
+ .comment       0x0000004d       0x4e ./build/Debug/sm32f030_gpio.o
+ .comment       0x0000004d       0x4e ./build/Debug/sm32f030_i2c.o
+ .comment       0x0000004d       0x4e ./build/Debug/sm32f030_sysctrl.o
+ .comment       0x0000004d       0x4e ./build/Debug/sm32f030_uart.o
+ .comment       0x0000004d       0x4e ./build/Debug/main.o
+ .comment       0x0000004d       0x4e ./build/Debug/sm32f0xx_it.o
+ .comment       0x0000004d       0x4e ./build/Debug/system_sm32f030.o
+
+.debug_frame    0x00000000     0x19b8
+ .debug_frame   0x00000000      0x548 ./build/Debug/cmsis_os.o
+ .debug_frame   0x00000548       0x6c ./build/Debug/list.o
+ .debug_frame   0x000005b4      0x110 ./build/Debug/port.o
+ .debug_frame   0x000006c4       0xa0 ./build/Debug/heap_4.o
+ .debug_frame   0x00000764      0x494 ./build/Debug/tasks.o
+ .debug_frame   0x00000bf8      0x13c ./build/Debug/sm32f030_gpio.o
+ .debug_frame   0x00000d34       0xdc ./build/Debug/sm32f030_i2c.o
+ .debug_frame   0x00000e10       0xa0 ./build/Debug/sm32f030_sysctrl.o
+ .debug_frame   0x00000eb0       0xdc ./build/Debug/sm32f030_uart.o
+ .debug_frame   0x00000f8c       0xd0 ./build/Debug/main.o
+ .debug_frame   0x0000105c       0x48 ./build/Debug/sm32f0xx_it.o
+ .debug_frame   0x000010a4       0x38 ./build/Debug/system_sm32f030.o
+ .debug_frame   0x000010dc       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000010fc       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00001128       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00001148       0x50 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00001198      0x170 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00001308       0x58 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00001360       0xb0 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x00001410       0x30 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00001440       0x9c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x000014dc       0x54 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001530       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000155c       0x90 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x000015ec       0x48 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00001634       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x00001660       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000168c       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x000016b8       0x68 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00001720       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000174c       0x54 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x000017a0       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000017c0       0x40 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00001800       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000182c       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x00001858       0x48 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000018a0       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x000018cc       0x2c e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x000018f8       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .debug_frame   0x00001918       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+ .debug_frame   0x00001938       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+ .debug_frame   0x00001958       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .debug_frame   0x00001978       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .debug_frame   0x00001998       0x20 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+
+.stab           0x00000000       0x84
+ .stab          0x00000000       0x24 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .stab          0x00000024       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(fstat.o)
+                                 0x24 (size before relaxing)
+ .stab          0x0000003c       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(isatty.o)
+                                 0x24 (size before relaxing)
+ .stab          0x00000054       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+                                 0x24 (size before relaxing)
+ .stab          0x0000006c       0x18 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+                                 0x24 (size before relaxing)
+
+.stabstr        0x00000000      0x117
+ .stabstr       0x00000000      0x117 e:/program files/gcc-arm-none-eabi-10-2020/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)

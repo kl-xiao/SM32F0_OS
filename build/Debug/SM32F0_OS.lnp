@@ -1,0 +1,28 @@
+-mthumb -mcpu=cortex-m0 --specs=nosys.specs --specs=nano.specs -Wl,--gc-sections -T "e:/VS Code Projects/SM32F0_OS/SM32F0_OS/SM32F030C8Tx_FLASH.ld"
+-Wl,-Map=./build/Debug/SM32F0_OS.map
+-o ./build/Debug/SM32F0_OS.elf ./build/Debug/cmsis_os.o
+./build/Debug/croutine.o
+./build/Debug/event_groups.o
+./build/Debug/list.o
+./build/Debug/port.o
+./build/Debug/heap_4.o
+./build/Debug/queue.o
+./build/Debug/tasks.o
+./build/Debug/timers.o
+./build/Debug/sm32f030_adc.o
+./build/Debug/sm32f030_crc.o
+./build/Debug/sm32f030_flash.o
+./build/Debug/sm32f030_gpio.o
+./build/Debug/sm32f030_i2c.o
+./build/Debug/sm32f030_misc.o
+./build/Debug/sm32f030_pwm.o
+./build/Debug/sm32f030_spi.o
+./build/Debug/sm32f030_sysctrl.o
+./build/Debug/sm32f030_tim.o
+./build/Debug/sm32f030_uart.o
+./build/Debug/sm32f030_wdt.o
+./build/Debug/freertos.o
+./build/Debug/main.o
+./build/Debug/sm32f0xx_it.o
+./build/Debug/system_sm32f030.o
+./build/Debug/startup_sm32f030.o -lm
